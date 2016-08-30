@@ -40,7 +40,8 @@ public class DatabaseLoader implements ApplicationRunner {
                 "Java 9",
                 "Scala",
                 "Groovy",
-                "Hibernate"
+                "Hibernate",
+                "Spring HATEOS"
         };
 
         List<Course> bunchOfCourses = new ArrayList<>();
